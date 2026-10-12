@@ -1,0 +1,3 @@
+:root{--g:#1D5C2E;--gd:#143F20;--g2:#3E9B2F;--g3:#DFEBD3;--o:#EE8A14;--o2:#D9600F;--o3:#FBE6C8;--c:#F5EFE2;--w:#FBFAF7;--ink:#17301E;--mut:#5F6E58;--line:#17301e1f;--r:6px;--f:Figtree,system-ui,sans-serif;--acc:var(--o2);--acc3:var(--o3)}
+[data-r=farmer]{--acc:var(--g);--acc3:var(--g3)}
+[data-r=ops]{--acc:var(--gd);--acc3:#E6DFCF}
